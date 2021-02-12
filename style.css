@@ -11,14 +11,35 @@ h2 {
   font-size: 36px;
 }
 
-p, ol, ul, label {
-  font-family: sans-serif
+p, ol, ul, label, a {
+  font-size: 18px;
+  font-family: sans-serif;
 }
 
 .title-block {
-  margin: 0 0 96px 0;
+  margin: 48px 48px 96px 48px;
 }
 
 body {
-  margin: 40px;
+  margin: 0 0 0 0;
 }
+
+.figure-space {
+  margin: 5px 0 50px 0;
+  background: #333333;
+  width: 100%;
+}
+
+.figure {
+  display: block;
+  margin: 48px auto 48px auto;
+}
+
+.section {
+  margin: 0 48px 0 48px;
+}
+
+.footer {
+  margin: 96px 48px 48px 48px;
+}
+  
