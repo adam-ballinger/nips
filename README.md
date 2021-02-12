@@ -9,7 +9,7 @@ This project was chartered so I could practice the following:
 * Numeric Methods
 * GitHub
 
-[link to index](https://adam-ballinger.github.io/nips/)
+[site index page](https://adam-ballinger.github.io/nips/)
 
 Todo:
 - [ ] Integration overview
