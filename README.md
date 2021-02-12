@@ -1,5 +1,5 @@
 # Numerical Integration Project Site
-I am creating an article about numerical integration as a way to learn web development. The website will eventually contain an overview of numerical integration and an interactive numerical integration calculator.
+I am creating an article about numeric integration as a way to learn web development. The website will eventually contain an overview of numeric integration and an interactive numeric integration calculator.
 
 This project was chartered so I could practice the following:
 * HTML
@@ -9,15 +9,15 @@ This project was chartered so I could practice the following:
 * Numeric Methods
 * GitHub
 
-[site index page](https://adam-ballinger.github.io/nips/)
+[link to index](https://adam-ballinger.github.io/nips/)
 
 Todo:
 - [ ] Integration overview
-- [ ] Numerical integration overview
+- [ ] Numeric integration overview
 - [ ] Engineering applications for integration
-- [ ] Numerical integration methods
+- [ ] Numeric integration methods
 - [ ] User function input
-- [ ] Numerical integration calculator with select methods
+- [ ] Numeric integration calculator with select methods
 - [ ] Methods comparison
 - [ ] Error analysis
 - [ ] Cost analysis
