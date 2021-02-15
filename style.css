@@ -4,11 +4,12 @@ h1, h2 {
 
 h1 {
   font-size: 48px;
-  margin: 20px 0 0 0;
+  margin: 0 0 0 0;
 }
 
 h2 {
   font-size: 36px;
+  margin: 96px 48px 0 48px;
 }
 
 p, ol, ul, label, a {
@@ -16,18 +17,23 @@ p, ol, ul, label, a {
   font-family: sans-serif;
 }
 
-.title-block {
-  margin: 48px 48px 96px 48px;
+div {
+  margin: 0 48px 0 48px;
 }
 
 body {
-  margin: 0 0 0 0;
+  margin: 0;
 }
 
-.figure-space {
-  margin: 5px 0 50px 0;
+header {
+  margin: 48px 48px 12px 48px;
+}
+
+.figure-container {
+  margin: 12px 0 12px 0;
   background: #333333;
   width: 100%;
+  box-shadow: 0 0 2px 0 black;
 }
 
 .figure {
@@ -36,10 +42,10 @@ body {
 }
 
 .section {
-  margin: 0 48px 0 48px;
+  margin: 0 0 0 0;
 }
 
-.footer {
-  margin: 96px 48px 48px 48px;
+.title-block {
+  margin: 6px 48px 96px 48px;
 }
   

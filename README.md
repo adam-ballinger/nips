@@ -12,7 +12,7 @@ This project was chartered so I could practice the following:
 [link to index](https://adam-ballinger.github.io/nips/)
 
 Todo:
-- [ ] Integration overview
+- [x] Integration overview
 - [ ] Numeric integration overview
 - [ ] Engineering applications for integration
 - [ ] Numeric integration methods
