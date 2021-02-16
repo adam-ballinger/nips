@@ -13,8 +13,8 @@ This project was chartered so I could practice the following:
 
 Todo:
 - [x] Integration overview
+- [x] Engineering applications for integration
 - [ ] Numeric integration overview
-- [ ] Engineering applications for integration
 - [ ] Numeric integration methods
 - [ ] User function input
 - [ ] Numeric integration calculator with select methods
