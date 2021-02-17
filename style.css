@@ -12,9 +12,51 @@ h2 {
   margin: 96px 48px 0 48px;
 }
 
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
 p, ol, ul, label, a {
   font-size: 18px;
   font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p a {
+  background: transparent url(img/link.png) center left no-repeat;
+  padding-left: 18px;
+}
+
+.alt-figure-container p {
+  font-family: monospace;
+}
+
+.alt-figure-text-container {
+  margin: 30px 0 0 0;
+}
+
+.alt-figure-text-container div {
+  height: 236px;
+  margin: 0 48px 0 0;
+}
+
+.alt-figure-text-container .alt-figure-text-seperator {
+  height: 48px;
+  margin: 0 0 0 0;
+}
+
+h2 a {
+  font-family: inherit;
+  color: inherit;
+  font-size: inherit;
 }
 
 div {
@@ -34,6 +76,15 @@ header {
   background: #333333;
   width: 100%;
   box-shadow: 0 0 2px 0 black;
+}
+
+.alt-figure-container {
+  margin: 12px 0 12px 0;
+  background: #f8f6e9;
+  width: 100%;
+  box-shadow: 0 0 2px 0 black;
+  display: flex;
+  align-items: top;
 }
 
 .figure {
